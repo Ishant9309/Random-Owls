@@ -65,11 +65,14 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 
 ## Screenshots
 
-![Login Page](<img width="1913" height="880" alt="image" src="https://github.com/user-attachments/assets/2bc1a600-a1a3-41d7-b7e2-85d84ea150e0" />
+![Login Page](<<img width="1916" height="951" alt="login" src="https://github.com/user-attachments/assets/6649f686-c20c-42e1-a586-3c9de11ce0da" />
+>
 )
-![Register Page](<img width="1913" height="878" alt="image" src="https://github.com/user-attachments/assets/3735b829-6ae2-4cac-9394-532b29ba6d40" />
+![Register Page](<<img width="1917" height="956" alt="register" src="https://github.com/user-attachments/assets/e3b9a8bb-7af2-4313-bdd6-e061a1abf7ef" />
+>
 )
-![Chat App Page](<img width="1916" height="867" alt="image" src="https://github.com/user-attachments/assets/d366be2e-56c5-4143-8239-418604b29724" />
+![Chat App Page](<<img width="1918" height="968" alt="index" src="https://github.com/user-attachments/assets/4e248536-a8bd-4503-91f1-42f564b7b929" />
+>
 )
 
 ## Future Enhancements
